@@ -1,0 +1,73 @@
+{
+    "contract": {
+        "accountid": "0013400001XoKeXAAV",
+        "startdate": "2022-03-25",
+        "currencyisocode": "USD",
+        "eanumber": "123",
+        "orgid": "123",
+        "agreement": "a7W050000000IOjEAM",
+        "genericamount": "123",
+        "paymenttype": "Prepay",
+        "cbcterm": "12M",
+        "contracttype": "Generic + Service Specific Contract",
+        "rtm": "Direct",
+        "additionalaccount": "123abc",
+        "distributoracc": "",
+        "reselleracc": "",
+        "custemailids": "",
+        "channeldiscper": "",
+        "cabvalue": "",
+        "cabdisc": "",
+        "service": "VMC",
+        "serviceamount": "123",
+        "annualtargetspend": [
+            {
+                "year": "Year 1",
+                "commitamount": "123"
+            },
+            {
+                "year": "Year 2",
+                "commitamount": "456"
+            }],
+        "contractedprices": [
+            {
+                "discgroup": "Group 1",
+                "discfrom": "10",
+                "discto": "4",
+                "dsicpercent": "5",
+                "comments": "abc"
+            },
+            {
+                "discgroup": "Group 2",
+                "discfrom": "15",
+                "discto": "2",
+                "dsicpercent": "9"
+            }]
+    },
+    "quote": {
+        "currencyisocode":"USD",
+        "opportunityid":"",
+        "expirationdate":"2022-04-29",
+        "description":"any text here",
+        "elatype":"New ELA",
+        "quotetype":"ELA",
+        "rtm":"Channel",
+        "supportduration":"1",
+        "actualcurrency":"G-USD",
+        "quotename":"Test Quote",
+        "eanumber": "123,564",
+        "orgid": "123",
+        "totalcbcprice":"4500",
+        "channeldsic":"10",
+        "quotelines":[
+            {
+                "Quantity":"3",
+                "sku":"SPP-CREDIT-C",
+                "listprice":"100",
+                "cablicense":"123",
+                "cabsnscredit":"123"
+            }]
+        },
+    "estimateurl": "",
+    "estimatorrecordid": ""
+}
